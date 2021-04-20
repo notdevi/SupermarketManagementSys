@@ -1,0 +1,10 @@
+D:\SEMESTER 6\PBKK\tugas 5\SupermarketMS-master\SupermarketTuto\obj\Debug\SupermarketTuto.csprojAssemblyReference.cache
+D:\SEMESTER 6\PBKK\tugas 5\SupermarketMS-master\SupermarketTuto\obj\Debug\SupermarketTuto.CATEGORYFORM.resources
+D:\SEMESTER 6\PBKK\tugas 5\SupermarketMS-master\SupermarketTuto\obj\Debug\SupermarketTuto.Form1.resources
+D:\SEMESTER 6\PBKK\tugas 5\SupermarketMS-master\SupermarketTuto\obj\Debug\SupermarketTuto.ProductForm.resources
+D:\SEMESTER 6\PBKK\tugas 5\SupermarketMS-master\SupermarketTuto\obj\Debug\SupermarketTuto.Properties.Resources.resources
+D:\SEMESTER 6\PBKK\tugas 5\SupermarketMS-master\SupermarketTuto\obj\Debug\SupermarketTuto.SellerForm.resources
+D:\SEMESTER 6\PBKK\tugas 5\SupermarketMS-master\SupermarketTuto\obj\Debug\SupermarketTuto.SellingForm.resources
+D:\SEMESTER 6\PBKK\tugas 5\SupermarketMS-master\SupermarketTuto\obj\Debug\SupermarketTuto.Splash.resources
+D:\SEMESTER 6\PBKK\tugas 5\SupermarketMS-master\SupermarketTuto\obj\Debug\SupermarketTuto.csproj.GenerateResource.cache
+D:\SEMESTER 6\PBKK\tugas 5\SupermarketMS-master\SupermarketTuto\obj\Debug\SupermarketTuto.csproj.CoreCompileInputs.cache
